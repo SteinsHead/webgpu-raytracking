@@ -1,0 +1,6 @@
+node_modules
+lib
+demo/dist
+package-lock.json
+demo/assets/models/*
+!demo/assets/models/walls
